@@ -60,8 +60,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DmPanf&theme=dark&hide_border=false)
 
-![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=DmPanf)(https://github.com/MrKrishnaAgarwal/readme-components-github)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
