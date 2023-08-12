@@ -57,7 +57,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 # 📊 GitHub Stats: 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&langs_count=10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=python)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&langs_count=10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DmPanf&theme=dark&hide_border=false)
 
 
