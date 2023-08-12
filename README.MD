@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Dmitrii<br>- 👀 I’m interested in Linux, Python, AI (chatGPT, CNN, CV), RasPi+IoT, Telegram;<br>- ♻️ currently learning AI Integration & DevOps;<br>- ⚙️ looking to collaborate on _open source projects related to machine learning and artificial intelligence_
+- 👋 Hi, I’m Dmitrii!<br>- 👀 I’m interested in Linux, Python, AI (chatGPT, CNN, CV), RasPi+IoT, Telegram;<br>- ♻️ currently learning AI Integration & DevOps;<br>- ⚙️ looking to collaborate on _open source projects related to machine learning and artificial intelligence._
 
 
 ## 🌐 Socials:
