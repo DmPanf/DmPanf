@@ -55,13 +55,10 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats: [![](https://visitcount.itsvg.in/api?id=DmPanf&icon=0&color=9)](https://visitcount.itsvg.in)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DmPanf&theme=dark&hide_border=false)
-
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=DmPanf&icon=0&color=9)](https://visitcount.itsvg.in)
