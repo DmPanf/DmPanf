@@ -57,6 +57,31 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 # 📊 GitHub Stats: 
 
+<div name="stats">
+    <picture name="most used languages">
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&langs_count=10&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook&rank_icon=github"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&langs_count=10&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook&rank_icon=github"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&langs_count=10&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook&rank_icon=github"" />
+    <!-- </picture>
+    <picture name="gh stats">
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=default"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact">
+    </picture> -->
+  </div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&langs_count=10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DmPanf&theme=dark&hide_border=false)
 
