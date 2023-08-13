@@ -25,10 +25,8 @@ social_links:
 ---
 -->
 
-<h1>🤝&nbsp;<code>~/</code></h1>
-
 <div style="display: flex; align-items: start;">
-  
+<h1>🤝&nbsp;<code>~/</code></h1>  
   <div style="margin-left: 20px;">
       <img src="https://raw.githubusercontent.com/DmPanf/AI_Data/main/Data/Photo/facescan.gif" alt="GIF" style="width: 180px; height: 150px; border-radius: 60%;">
   </div>
