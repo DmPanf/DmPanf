@@ -46,7 +46,6 @@ social_links:
     </tr>
 </table>
 
-
 <div name="socials">
   <h2>🌐&nbsp;<code>~/Socials/</code></h2>
   <p name="social_links" align="center"> <!-- It is possible to align left, center or right -->
