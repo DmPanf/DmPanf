@@ -39,7 +39,7 @@ social_links:
   </div>
 
   <div style="margin-left: 20px; border-radius: 50%; overflow: hidden; width: 150px; height: 150px;">
-      <img src="https://www.womanthology.co.uk/wp-content/uploads/2017/06/facescan.gif" alt="GIF" style="width: 100%; height: 100%;">
+      <img src="https://raw.githubusercontent.com/DmPanf/AI_Data/main/Data/Photo/facescan.gif" alt="GIF" style="width: 50%; height: 50%;">
   </div>
 </div>
 
