@@ -39,7 +39,7 @@ social_links:
   </div>
 
   <div style="margin-left: 20px;">
-      <img src="https://raw.githubusercontent.com/DmPanf/AI_Data/main/Data/Photo/facescan.gif" alt="GIF" style="width: 150px; height: 150px; border-radius: 50%;">
+      <img src="https://raw.githubusercontent.com/DmPanf/AI_Data/main/Data/Photo/facescan.gif" alt="GIF" style="width: 180px; height: 150px; border-radius: 60%;">
   </div>
 </div>
 
