@@ -39,8 +39,8 @@ social_links:
             </ul>
         </td>
         <td valign="top" style="width: 30%;">
-            <div style="border-radius: 60%; overflow: hidden;">
-                <img src="https://raw.githubusercontent.com/DmPanf/AI_Data/main/Data/Photo/facescan.gif" alt="GIF" style="width: 120px; height: 100px;">
+            <div style="border-radius: 30%; overflow: hidden;">
+                <img src="https://raw.githubusercontent.com/DmPanf/AI_Data/main/Data/Photo/facescan.gif" alt="GIF" style="width: 160px; height: 130px;">
             </div>
         </td>
     </tr>
