@@ -29,7 +29,7 @@ social_links:
 
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
-        <td valign="top" style="width: 75%; padding-right: 20px;">
+        <td valign="top" style="width: 70%; padding-right: 20px;">
             <ul>
                 <li>👋 Hi, I’m <b><a href="https://keybase.io/DmPanf" target="_blank" style="text-decoration: none;">Dmitrii</a></b>!</li>
                 <li>👀 I’m interested in Python, AI (ChatGPT, CNN, CV), RasPi + IoT</li>
@@ -38,9 +38,9 @@ social_links:
                 <li>⚙️ Looking to collaborate on <i>open source projects related to machine learning and artificial intelligence</i></li>
             </ul>
         </td>
-        <td valign="top" style="width: 25%;">
-            <div style="width: 150px; height: 120px; overflow: hidden; border-radius: 60%;">
-                <img src="https://raw.githubusercontent.com/DmPanf/AI_Data/main/Data/Photo/facescan.gif" alt="GIF" style="width: 40%;">
+        <td valign="top" style="width: 30%;">
+            <div style="width: 100px; height: 80px; overflow: hidden; border-radius: 50%;">
+                <img src="https://raw.githubusercontent.com/DmPanf/AI_Data/main/Data/Photo/facescan.gif" alt="GIF" style="width: 100%;">
             </div>
         </td>
     </tr>
