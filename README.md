@@ -42,6 +42,28 @@ social_links:
   </ul>
   </div>
 
+<table style="width: 100%; border-collapse: collapse;">
+    <tr>
+        <!-- Левая ячейка для текста -->
+        <td valign="top" style="width: 70%; padding-right: 20px;">
+            <ul>
+                <li>👋 Hi, I’m <b><a href="https://keybase.io/DmPanf" target="_blank" style="text-decoration: none;">Dmitrii</a></b>!</li>
+                <li>👀 I’m interested in Python, AI (ChatGPT, CNN, CV), RasPi + IoT</li>
+                <li>❤️ I love Linux & Telegram-based solutions</li>
+                <li>♻️ Currently learning AI Integration & DevOps</li>
+                <li>⚙️ Looking to collaborate on <i>open source projects related to machine learning and artificial intelligence</i></li>
+            </ul>
+        </td>
+
+        <!-- Правая ячейка для GIF -->
+        <td valign="top" style="width: 30%;">
+            <div style="border-radius: 60%; overflow: hidden;">
+                <img src="https://raw.githubusercontent.com/DmPanf/AI_Data/main/Data/Photo/facescan.gif" alt="GIF" style="width: 180px; height: 150px;">
+            </div>
+        </td>
+    </tr>
+</table>
+
 
 <div name="socials">
   <h2>🌐&nbsp;<code>~/Socials/</code></h2>
