@@ -25,10 +25,11 @@ social_links:
 ---
 -->
 
-<div style="display: flex; align-items: start;">
 <h1>🤝&nbsp;<code>~/</code></h1>  
+
+<div style="display: flex; align-items: start;">
   <div style="margin-left: 20px;">
-      <img src="https://raw.githubusercontent.com/DmPanf/AI_Data/main/Data/Photo/facescan.gif" alt="GIF" style="width: 180px; height: 150px; border-radius: 60%;">
+      <img src="https://raw.githubusercontent.com/DmPanf/AI_Data/main/Data/Photo/facescan.gif" alt="GIF" style="width: 180px; height: 150px; border-radius: 40%;">
   </div>
 </div>
   <div>
@@ -40,7 +41,6 @@ social_links:
       <li>⚙️ Looking to collaborate on <i>open source projects related to machine learning and artificial intelligence</i></li>
   </ul>
   </div>
-
 
 
 <div name="socials">
