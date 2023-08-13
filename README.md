@@ -38,7 +38,7 @@ social_links:
   </ul>
   </div>
 
-  <div style="margin-left: 20px; border-radius: 50%; overflow: hidden; width: 150px; height: 150px;">
+  <div style="margin-left: 20px; border-radius: 60%; overflow: hidden; width: 100px; height: 100px;">
       <img src="https://raw.githubusercontent.com/DmPanf/AI_Data/main/Data/Photo/facescan.gif" alt="GIF" style="width: 50%; height: 50%;">
   </div>
 </div>
