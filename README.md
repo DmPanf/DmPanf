@@ -25,9 +25,9 @@ social_links:
 ---
 -->
 
-<div style="display: flex; align-items: start;">
 <h1>🤝&nbsp;<code>~/</code></h1>
 
+<div style="display: flex; align-items: start;">
   <div>
   <ul>
       <li>👋 Hi, I’m <b><a href="https://keybase.io/DmPanf" target="_blank" style="text-decoration: none;">Dmitrii</a></b>!</li>
