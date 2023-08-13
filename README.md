@@ -25,8 +25,10 @@ social_links:
 ---
 -->
 
+<div style="display: flex; align-items: start;">
 <h1>🤝&nbsp;<code>~/</code></h1>
 
+<div>
 <ul>
       <li>👋 Hi, I’m <b><a href="https://keybase.io/DmPanf" target="_blank" style="text-decoration: none;">Dmitrii</a></b>!</li>
       <li>👀 I’m interested in Python, AI (ChatGPT, CNN, CV), RasPi + IoT</li>
@@ -34,6 +36,16 @@ social_links:
       <li>♻️ Currently learning AI Integration & DevOps</li>
       <li>⚙️ Looking to collaborate on <i>open source projects related to machine learning and artificial intelligence</i></li>
 </ul>
+</div>
+
+    <!-- GIF-файл, обрамленный кружком -->
+    <div style="margin-left: 20px; border-radius: 50%; overflow: hidden; width: 150px; height: 150px;">
+        <img src="https://www.womanthology.co.uk/wp-content/uploads/2017/06/facescan.gif" alt="GIF" style="width: 100%; height: 100%;">
+    </div>
+</div>
+
+Замените "URL_ВАШЕГО_GIF" на реальный URL-адрес вашего GIF-файла. Вы также можете настроить ширину и высоту, как вам нравится. Текущие значения width и height в блоке div для GIF делают изображение круглым и определяют его размер.
+
 
 <div name="socials">
   <h2>🌐&nbsp;<code>~/Socials/</code></h2>
