@@ -28,6 +28,11 @@ social_links:
 <h1>🤝&nbsp;<code>~/</code></h1>
 
 <div style="display: flex; align-items: start;">
+  
+  <div style="margin-left: 20px;">
+      <img src="https://raw.githubusercontent.com/DmPanf/AI_Data/main/Data/Photo/facescan.gif" alt="GIF" style="width: 180px; height: 150px; border-radius: 60%;">
+  </div>
+</div>
   <div>
   <ul>
       <li>👋 Hi, I’m <b><a href="https://keybase.io/DmPanf" target="_blank" style="text-decoration: none;">Dmitrii</a></b>!</li>
@@ -38,10 +43,6 @@ social_links:
   </ul>
   </div>
 
-  <div style="margin-left: 20px;">
-      <img src="https://raw.githubusercontent.com/DmPanf/AI_Data/main/Data/Photo/facescan.gif" alt="GIF" style="width: 180px; height: 150px; border-radius: 60%;">
-  </div>
-</div>
 
 
 <div name="socials">
