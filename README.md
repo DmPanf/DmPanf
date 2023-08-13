@@ -29,7 +29,7 @@ social_links:
 
 <ul>
       <li>👋 Hi, I’m <b><a href="https://keybase.io/DmPanf" target="_blank" style="text-decoration: none;">Dmitrii</a></b>!</li>
-      <li>👀 I’m interested in Python, AI (ChatGPT, CNN, CV), RasPi+IoT</li>
+      <li>👀 I’m interested in Python, AI (ChatGPT, CNN, CV), RasPi + IoT</li>
       <li>❤️ I love Linux & Telegram-based solutions</li>
       <li>♻️ Currently learning AI Integration & DevOps</li>
       <li>⚙️ Looking to collaborate on <i>open source projects related to machine learning and artificial intelligence</i></li>
