@@ -82,14 +82,14 @@ social_links:
   <h2>📊&nbsp;<code>~/Stats/</code></h2>
   <picture name="most used languages" align="center">
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&langs_count=10&layout=compact&hide=jupyter%20notebook&size_weight=0.6&count_weight=0.4&theme=chartreuse-dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&langs_count=10&layout=compact&hide=jupyter%20notebook&size_weight=0.6&count_weight=0.3&theme=chartreuse-dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&langs_count=10&layout=compact&hide=jupyter%20notebook&size_weight=0.6&count_weight=0.4&theme=default"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&langs_count=10&layout=compact&hide=jupyter%20notebook&size_weight=0.6&count_weight=0.3&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img alt="most used languages" height=240 align="center" src="https://github-readme-stats.vercel.app/api/toplangs/username=DmPanf&langs_count=10&layout=compact&hide=jupyter%20notebook&size_weight=0.6&count_weight=0.4" />
+    <img alt="most used languages" height=240 align="center" src="https://github-readme-stats.vercel.app/api/toplangs/username=DmPanf&langs_count=10&layout=compact&hide=jupyter%20notebook&size_weight=0.6&count_weight=0.3" />
   </picture>
   <picture name="gh stats">
     <source
