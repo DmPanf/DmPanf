@@ -86,10 +86,10 @@ social_links:
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&langs_count=10&layout=compact&hide=jupyter%20notebook&size_weight=0.99&count_weight=0.99&theme=default"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&langs_count=10&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img alt="most used languages" height=240 align="center" src="https://github-readme-stats.vercel.app/api/toplangs/username=DmPanf&langs_count=10&layout=compact&hide=jupyter%20notebook&size_weight=0.99&count_weight=0.99" />
+    <img alt="most used languages" height=240 align="center" src="https://github-readme-stats.vercel.app/api/toplangs/username=DmPanf&langs_count=10&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" />
   </picture>
   <picture name="gh stats">
     <source
