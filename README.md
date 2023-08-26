@@ -82,7 +82,7 @@ social_links:
   <h2>📊&nbsp;<code>~/Stats/</code></h2>
   <picture name="most used languages" align="center">
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&langs_count=10&layout=compact&hide=jupyter%20notebook&size_weight=0.99&count_weight=0.99&theme=chartreuse-dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&langs_count=10&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&theme=chartreuse-dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
