@@ -53,22 +53,26 @@ social_links:
       <img alt="LinkedIn: @DmPanf" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white" height="25px" />
     </a>
     <a href="https://profile.codersrank.io/user/DmPanf" target="_blank" name="codersrank">
-      <img alt="Codersrank: @DmPanf" src="https://img.shields.io/badge/CodersRank-67A4AC.svg?logo=codersrank&logoColor=white" height="25px" />
+      <img alt="CodersRank: @DmPanf" src="https://img.shields.io/badge/CodersRank-67A4AC.svg?logo=codersrank&logoColor=white" height="25px" />
     </a>
     <a href="https://t.me/DmPanf" target="_blank" name="telegram">
       <img alt="Telegram: @DmPanf" src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white" height="25px" />
     </a>
+    <a href="https://t.me/isai_digital" target="_blank" name="telegram_channel">
+      <img alt="Telegram Channel: @isai_digital" src="https://img.shields.io/badge/Telegram_Channel-26A5E4.svg?logo=telegram&logoColor=white" height="25px" />
+    </a>
+    <a href="https://teletype.in/@DmPanf" target="_blank" name="teletype">
+      <img alt="Teletype Blog: @DmPanf" src="https://img.shields.io/badge/Teletype-000000.svg?logo=ghost&logoColor=white" height="25px" />
+    </a>
     <a href="https://keybase.io/DmPanf" target="_blank" name="keybase">
       <img alt="Keybase: @DmPanf" src="https://img.shields.io/badge/Keybase-33A0FF.svg?logo=keybase&logoColor=white" height="25px" />
     </a>
-    <!-- <a href="https://dev.to/DmPanf" target="_blank" name="devto">
-      <img alt="DevTo: @DmPanf" src="https://img.shields.io/badge/Dev_Blog-0A0A0A.svg?logo=dev.to&logoColor=white" height="25px" />
-    </a> -->
-    <a href="mailto:bunta.bit@mail3.me" target="_blank" name="devto">
+    <a href="mailto:bunta.bit@mail3.me" target="_blank" name="mail3">
       <img alt="Email: bunta.bit@mail3.me" src="https://img.shields.io/badge/Mail3-4e51f4.svg?logo=blockchain.com&logoColor=white" height="25px" />
     </a>
   </p>
 </div>
+
 
 <div name="about">
   <h2>🔮&nbsp;<code>~/About_me/</code></h2>
