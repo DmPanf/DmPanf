@@ -57,10 +57,6 @@ social_links:
     <a href="https://t.me/isai_digital" target="_blank" name="telegram_channel">
       <img alt="Telegram Channel: @isai_digital" src="https://img.shields.io/badge/Telegram_Channel-0088cc.svg?logo=telegram&logoColor=white" height="25px" />
     </a>
-    <!-- Personal Telegram -->
-    <a href="https://t.me/DmPanf" target="_blank" name="telegram">
-      <img alt="Telegram: @DmPanf" src="https://img.shields.io/badge/Telegram-229ED9.svg?logo=telegram&logoColor=white" height="25px" />
-    </a>
     <!-- Teletype Blog -->
     <a href="https://teletype.in/@DmPanf" target="_blank" name="teletype">
       <img alt="Teletype Blog: @DmPanf" src="https://img.shields.io/badge/Teletype-000000.svg?logo=ghost&logoColor=white" height="25px" />
@@ -72,6 +68,10 @@ social_links:
     <!-- Keybase -->
     <a href="https://keybase.io/DmPanf" target="_blank" name="keybase">
       <img alt="Keybase: @DmPanf" src="https://img.shields.io/badge/Keybase-33A0FF.svg?logo=keybase&logoColor=white" height="25px" />
+    </a>
+    <!-- Personal Telegram -->
+    <a href="https://t.me/DmPanf" target="_blank" name="telegram">
+      <img alt="Telegram: @DmPanf" src="https://img.shields.io/badge/Telegram-229ED9.svg?logo=telegram&logoColor=white" height="25px" />
     </a>
     <!-- Mail -->
     <a href="mailto:bunta.bit@mail3.me" target="_blank" name="mail3">
