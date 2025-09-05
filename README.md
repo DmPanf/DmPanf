@@ -32,11 +32,10 @@ social_links:
     <tr>
         <td valign="top" style="width: 70%; padding-right: 20px;">
               <ul>
-                  <li>👉 Hi, I'm <b><a href="https://keybase.io/DmPanf" target="_blank" style="text-decoration: none;">Dmitrii Panfilov</a> — AI Engineer & Digital Transformation Mentor</b></li>
-                  <li>🤖 Exploring <b>AI & Computer Vision</b> — LLMs, CNNs, multimodal models & ChatGPT</li>
-                  <li>⚡ Building <b>AI-powered Telegram bots</b> & scalable apps with FastAPI</li>
-                  <li>🐧 Enthusiast of <b>Linux, DevOps practices, security & cryptography</b></li>
-                  <li>🚀 Open to <i>collaborations on applied AI, open-source, and innovative projects</i></li>
+                  <li>👉 Hi, I'm <b><a href="https://keybase.io/DmPanf" target="_blank" style="text-decoration: none;">Dmitrii Panfilov</a></b></li>
+                  <li>🤖 AI Engineer — focusing on <b>Computer Vision, LLMs & applied AI</b></li>
+                  <li>⚡ Creator of <b>Telegram bots</b> & scalable apps with FastAPI</li>
+                  <li>🐧 Linux & DevOps enthusiast | 🚀 Open-source collaborator</li>
               </ul>
         </td>
         <td valign="top" style="width: 30%;">
@@ -74,8 +73,13 @@ social_links:
 <div name="about">
   <h2>🔮&nbsp;<code>~/About_me/</code></h2>
   <p name="long_bio" align="center">
-🔍 I'm Dmitrii, an engineer deeply immersed in AI magic 🤖 and Python wizardry 🐍. My journey encompasses crafting sophisticated Telegram bots 🤖, enhancing my DevOps prowess 🛠, and exploring the Linux universe 🐧. With a keen interest in Computer Vision (CV) 👁, I'm dedicated to unlocking the secrets of visual data interpretation, a passion that naturally complements my enthusiasm for blockchain innovations 🔗. My explorations extend to the integration of Raspberry Pi projects 🥧 with IoT 🌍, aiming to create interconnected, smart environments. I also have a keen interest in developing Telegram integrations and services using FastAPI, showcasing my versatility in web development and bot creation. As I venture further into AI Integration, I'm also fortifying my knowledge in Information Security 🔒 and Cryptography 🔑, ensuring that my projects not only perform exceptionally but are also secure and trustworthy. Currently, I'm committed to mastering AI Dialog Systems, with a special focus on interactive and intelligent models that enhance user experiences. While not actively on the job market 💼, I remain open to innovative collaborations and partnerships 🤝 that challenge the status quo and push the boundaries of technology.
-  </p>
+🔍 I'm Dmitrii — an AI Engineer and Digital Transformation Mentor.  
+Passionate about <b>AI & Computer Vision</b> 🤖, <b>Python</b> 🐍, and <b>Telegram integrations</b> 🚀.  
+I build scalable apps with <b>FastAPI</b>, explore <b>Linux & DevOps</b> 🐧, and research <b>security & cryptography</b> 🔒.  
+My journey also extends to <b>IoT & Raspberry Pi</b> 🥧 projects, creating smart, interconnected environments.  
+Currently focused on <b>AI dialog systems</b> that deliver interactive and intelligent user experiences.  
+Always open to <i>innovative collaborations and open-source projects</i> 🤝 pushing the boundaries of technology.
+</p>
 </div>
 
 <div name="stats">
