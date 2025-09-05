@@ -32,7 +32,7 @@ social_links:
     <tr>
         <td valign="top" style="width: 70%; padding-right: 20px;">
             <ul>
-                <li>👋 Hello, I'm <b><a href="https://keybase.io/DmPanf" target="_blank" style="text-decoration: none;">Dmitrii</a></b>!</li>
+                <li>👉 Hi, I'm <b><a href="https://keybase.io/DmPanf" target="_blank" style="text-decoration: none;">Dmitrii Panfilov</a> — AI Engineer & Digital Transformation Mentor</b>!</li>
                 <li>👀 My interests include Python, AI (Computer Vision, CNN, LLM & ChatGPT), and merging Raspberry Pi with IoT technologies</li>
                 <li>❤️ Passionate about Linux & crafting Telegram integrations and developing with FastAPI</li>
                 <li>♻️ Currently expanding my skills in AI Integration, DevOps practices, Information Security, and Cryptography</li>
