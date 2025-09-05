@@ -31,13 +31,13 @@ social_links:
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
         <td valign="top" style="width: 70%; padding-right: 20px;">
-            <ul>
-                <li>👉 Hi, I'm <b><a href="https://keybase.io/DmPanf" target="_blank" style="text-decoration: none;">Dmitrii Panfilov</a> — AI Engineer & Digital Transformation Mentor</b>!</li>
-                <li>👀 My interests include Python, AI (Computer Vision, CNN, LLM & ChatGPT), and merging Raspberry Pi with IoT technologies</li>
-                <li>❤️ Passionate about Linux & crafting Telegram integrations and developing with FastAPI</li>
-                <li>♻️ Currently expanding my skills in AI Integration, DevOps practices, Information Security, and Cryptography</li>
-                <li>⚙️ Looking to collaborate on <i>open source projects related to machine learning and artificial intelligence</i></li>
-            </ul>
+              <ul>
+                  <li>👉 Hi, I'm <b><a href="https://keybase.io/DmPanf" target="_blank" style="text-decoration: none;">Dmitrii Panfilov</a> — AI Engineer & Digital Transformation Mentor</b></li>
+                  <li>🤖 Exploring <b>AI & Computer Vision</b> — LLMs, CNNs, multimodal models & ChatGPT</li>
+                  <li>⚡ Building <b>AI-powered Telegram bots</b> & scalable apps with FastAPI</li>
+                  <li>🐧 Enthusiast of <b>Linux, DevOps practices, security & cryptography</b></li>
+                  <li>🚀 Open to <i>collaborations on applied AI, open-source, and innovative projects</i></li>
+              </ul>
         </td>
         <td valign="top" style="width: 30%;">
             <div style="border-radius: 30%; overflow: hidden;">
