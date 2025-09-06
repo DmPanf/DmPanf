@@ -33,7 +33,7 @@ social_links:
         <td valign="top" style="width: 70%; padding-right: 20px;">
               <ul>
                   <li>👉 Hi, I'm <b><a href="https://keybase.io/DmPanf" target="_blank" style="text-decoration: none;">Dmitrii Panfilov</a></b></li>
-                  <div style="height: 1px; background: linear-gradient(to right, #6A0DAD, #00FFFF); width: 40%; margin: 10px auto;"></div>
+                  <div style="height: 3px; background: linear-gradient(to right, #6A0DAD, #00FFFF); width: 80%; margin: 20px auto;"></div>
                   <li>🤖 AI Engineer — focusing on <b>Computer Vision, LLMs & applied AI</b></li>
                   <li>⚡ Creator of <b>Telegram bots</b> & scalable apps with FastAPI</li>
                   <li>🐧 Linux & DevOps enthusiast | 🚀 Open-source collaborator</li>
