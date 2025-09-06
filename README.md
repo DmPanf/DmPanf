@@ -604,4 +604,5 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
 </div>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=DmPanf&icon=0&color=9)](https://visitcount.itsvg.in)
