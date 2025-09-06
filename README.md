@@ -40,7 +40,7 @@ social_links:
         </td>
         <td valign="top" style="width: 30%;">
             <div style="border-radius: 30%; overflow: hidden;">
-                <img src="https://raw.githubusercontent.com/DmPanf/AI_Data/main/Data/Photo/facescan3.gif" alt="GIF" style="width: 160px; height: 130px;">
+                <img src="https://raw.githubusercontent.com/DmPanf/AI_Data/main/Data/Photo/facescan4.gif" alt="GIF" style="width: 160px; height: 130px;">
             </div>
         </td>
     </tr>
