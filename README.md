@@ -286,6 +286,54 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="" target="_blank" name="gimp">
         <img alt="gimp badge" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" />
       </a>
+<!-- AI Models -->
+<a href="https://github.com/google-research/bert" target="_blank" name="bert">
+  <img alt="BERT" src="https://img.shields.io/badge/BERT-121212?style=for-the-badge&logo=google&logoColor=white" />
+</a>
+<a href="https://huggingface.co/Qwen" target="_blank" name="qwen">
+  <img alt="Qwen" src="https://img.shields.io/badge/Qwen-ffcc00?style=for-the-badge&logo=alibabacloud&logoColor=black" />
+</a>
+<a href="https://github.com/haotian-liu/LLaVA" target="_blank" name="llava">
+  <img alt="LLaVA" src="https://img.shields.io/badge/LLaVA-4b0082?style=for-the-badge&logo=openai&logoColor=white" />
+</a>
+<a href="https://ai.google.dev/gemma" target="_blank" name="gemma">
+  <img alt="Gemma" src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</a>
+<a href="https://github.com/openai/CLIP" target="_blank" name="clip">
+  <img alt="CLIP" src="https://img.shields.io/badge/CLIP-000000?style=for-the-badge&logo=openai&logoColor=white" />
+</a>
+
+<!-- LangOps -->
+<a href="https://github.com/langchain-ai/langchain" target="_blank" name="langchain">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+<a href="https://github.com/langchain-ai/langgraph" target="_blank" name="langgraph">
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0066cc?style=for-the-badge&logo=graph&logoColor=white" />
+</a>
+
+<!-- Vector DB -->
+<a href="https://qdrant.tech/" target="_blank" name="qdrant">
+  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-FF4C00?style=for-the-badge&logo=databricks&logoColor=white" />
+</a>
+<a href="https://github.com/facebookresearch/faiss" target="_blank" name="faiss">
+  <img alt="FAISS" src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white" />
+</a>
+<a href="https://www.trychroma.com/" target="_blank" name="chromadb">
+  <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-800080?style=for-the-badge&logo=chromecast&logoColor=white" />
+</a>
+
+<!-- UI / Deployment -->
+<a href="https://github.com/gradio-app/gradio" target="_blank" name="gradio">
+  <img alt="Gradio" src="https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+<a href="https://github.com/reflex-dev/reflex" target="_blank" name="reflex">
+  <img alt="Reflex" src="https://img.shields.io/badge/Reflex-3333FF?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+<a href="https://www.cudocompute.com/" target="_blank" name="cudo">
+  <img alt="CUDO Compute" src="https://img.shields.io/badge/CUDO-00BFFF?style=for-the-badge&logo=nvidia&logoColor=white" />
+</a>
+
+      
     </div>
 </div>
 
