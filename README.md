@@ -224,7 +224,6 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="" target="_blank" name="nodejs">
         <img alt="nodejs badge" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
       </a>
-      
       <!-- UI / Deployment -->
       <a href="https://github.com/gradio-app/gradio" target="_blank" name="gradio">
         <img alt="Gradio" src="https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
@@ -238,7 +237,6 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="https://github.com/plotly/dash" target="_blank" name="dash">
         <img alt="Dash" src="https://img.shields.io/badge/Dash-003366?style=for-the-badge&logo=plotly&logoColor=white" />
       </a>
-      
       <!-- OS -->
       <a href="" target="_blank" name="linux">
         <img alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
