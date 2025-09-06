@@ -175,19 +175,7 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="" target="_blank" name="cmake">
         <img alt="cmake badge" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
       </a>
-      <a href="" target="_blank" name="markdown">
-        <img alt="markdown badge" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
-      </a>
-      <a href="" target="_blank" name="latex">
-        <img alt="latex badge" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
-      </a>
       <!-- Frameworks -->
-      <a href="" target="_blank" name="fastapi">
-        <img alt="fastapi badge" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-      </a>
-      <a href="" target="_blank" name="flask">
-        <img alt="flask badge" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-      </a>
       <a href="" target="_blank" name="plotly">
         <img alt="plotly badge" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
       </a>
@@ -212,19 +200,33 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="" target="_blank" name="pytorch">
         <img alt="pytorch badge" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
       </a>
-      <a href="" target="_blank" name="django">
-        <img alt="django badge" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
-      </a>
-      <a href="" target="_blank" name="qt">
-        <img alt="qt badge" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" />
-      </a>
       <a href="" target="_blank" name="react">
         <img alt="react badge" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
       </a>
       <a href="" target="_blank" name="nodejs">
         <img alt="nodejs badge" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
       </a>
+      <!-- APIs -->
+      <a href="" target="_blank" name="fastapi">
+        <img alt="fastapi badge" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+      </a>
+      <a href="" target="_blank" name="flask">
+        <img alt="flask badge" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+      </a>
+      <img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+      <img alt="REST" src="https://img.shields.io/badge/REST-009688?style=for-the-badge&logo=api&logoColor=white" />
+      <img alt="SOAP" src="https://img.shields.io/badge/SOAP-000080?style=for-the-badge&logo=w3c&logoColor=white" />
+      <img alt="OpenID" src="https://img.shields.io/badge/OpenID-FF6600?style=for-the-badge&logo=openid&logoColor=white" />
+      <img alt="LDAP" src="https://img.shields.io/badge/LDAP-0A79D6?style=for-the-badge&logo=protocols&logoColor=white" />
+      <img alt="OAuth2" src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=auth0&logoColor=white" />
+      <img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
       <!-- UI / Deployment -->
+      <a href="" target="_blank" name="django">
+        <img alt="django badge" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
+      </a>
+      <a href="" target="_blank" name="qt">
+        <img alt="qt badge" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" />
+      </a>
       <a href="https://github.com/gradio-app/gradio" target="_blank" name="gradio">
         <img alt="Gradio" src="https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
       </a>
@@ -237,6 +239,10 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="https://github.com/plotly/dash" target="_blank" name="dash">
         <img alt="Dash" src="https://img.shields.io/badge/Dash-003366?style=for-the-badge&logo=plotly&logoColor=white" />
       </a>
+      <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" name="tkinter">
+        <img alt="tkinter" src="https://img.shields.io/badge/Tkinter-FF8000?style=for-the-badge&logo=python&logoColor=white" />
+      </a>
+      <img alt="PyGame" src="https://img.shields.io/badge/PyGame-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <!-- Databases -->
       <a href="" target="_blank" name="sqlite">
         <img alt="sqlite badge" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -291,23 +297,74 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="https://github.com/UKPLab/sentence-transformers" target="_blank" name="sentence_transformers">
         <img alt="SentenceTransformers" src="https://img.shields.io/badge/SentenceTransformers-006699?style=for-the-badge&logo=semanticweb&logoColor=white" />
       </a>
-      <a href="https://github.com/huggingface/datasets" target="_blank" name="datasets">
-        <img alt="Datasets" src="https://img.shields.io/badge/Datasets-ffcc33?style=for-the-badge&logo=huggingface&logoColor=black" />
-      </a>
       <a href="https://github.com/huggingface/tokenizers" target="_blank" name="tokenizers">
         <img alt="Tokenizers" src="https://img.shields.io/badge/Tokenizers-ff9900?style=for-the-badge&logo=huggingface&logoColor=black" />
       </a>
-      <!-- Inference & Optimization -->
-      <a href="https://github.com/vllm-project/vllm" target="_blank" name="vllm">
-        <img alt="vLLM" src="https://img.shields.io/badge/vLLM-20232A?style=for-the-badge&logo=nvidia&logoColor=76B900" />
+      <a href="https://github.com/huggingface/datasets" target="_blank" name="datasets">
+        <img alt="Datasets" src="https://img.shields.io/badge/Datasets-ffcc33?style=for-the-badge&logo=huggingface&logoColor=black" />
       </a>
-      <a href="https://onnxruntime.ai/" target="_blank" name="onnx">
-        <img alt="ONNX Runtime" src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+      <!-- Data Science -->
+      <a href="https://www.kaggle.com/" target="_blank" name="kaggle">
+        <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+      </a>
+      <a href="https://roboflow.com/" target="_blank" name="roboflow">
+        <img alt="Roboflow" src="https://img.shields.io/badge/Roboflow-FF6F00?style=for-the-badge&logo=roboflow&logoColor=white" />
+      </a>
+      <!-- Inference & Optimization & Cloud / Providers -->
+      <a href="https://www.cudocompute.com/" target="_blank" name="cudo">
+        <img alt="CUDO Compute" src="https://img.shields.io/badge/CUDO-00BFFF?style=for-the-badge&logo=nvidia&logoColor=white" />
+      </a>
+      <a href="https://developer.nvidia.com/cudnn" target="_blank">
+        <img alt="cuDNN" src="https://img.shields.io/badge/cuDNN-76B900?style=for-the-badge&logo=nvidia&logoColor=black" />
       </a>
       <a href="https://developer.nvidia.com/tensorrt" target="_blank" name="tensorrt">
         <img alt="TensorRT" src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=black" />
       </a>
+      <a href="https://onnxruntime.ai/" target="_blank" name="onnx">
+        <img alt="ONNX Runtime" src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+      </a>
+      <a href="https://github.com/vllm-project/vllm" target="_blank" name="vllm">
+        <img alt="vLLM" src="https://img.shields.io/badge/vLLM-20232A?style=for-the-badge&logo=nvidia&logoColor=76B900" />
+      </a>
+      <a href="https://github.com/microsoft/DeepSpeed" target="_blank">
+        <img alt="DeepSpeed" src="https://img.shields.io/badge/DeepSpeed-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+      </a>
+      <a href="https://github.com/horovod/horovod" target="_blank">
+        <img alt="Horovod" src="https://img.shields.io/badge/Horovod-FF6F00?style=for-the-badge&logo=uber&logoColor=white" />
+      </a>
+      <a href="https://developer.nvidia.com/nccl" target="_blank">
+        <img alt="NCCL" src="https://img.shields.io/badge/NCCL-76B900?style=for-the-badge&logo=nvidia&logoColor=black" />
+      </a>
+      <a href="https://www.cudocompute.com/" target="_blank">
+        <img alt="Cudo Compute" src="https://img.shields.io/badge/CUDO_Compute-00BFFF?style=for-the-badge&logo=nvidia&logoColor=white" />
+      </a>
+      <!-- Data Science / ML -->
+      <a href="https://xgboost.ai/" target="_blank" name="xgboost">
+        <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=apache&logoColor=white" />
+      </a>
+      <a href="https://catboost.ai/" target="_blank" name="catboost">
+        <img alt="CatBoost" src="https://img.shields.io/badge/CatBoost-FFD700?style=for-the-badge&logo=yandex&logoColor=black" />
+      </a>
+      <a href="https://github.com/microsoft/LightGBM" target="_blank" name="lightgbm">
+        <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-339933?style=for-the-badge&logo=leaflet&logoColor=white" />
+      </a>
+      <!-- KNN / KMeans / PCA / SVM / Trees / RF -->
+      <img alt="k-NN" src="https://img.shields.io/badge/k--NN-333333?style=for-the-badge&logo=ai&logoColor=white" />
+      <img alt="KMeans" src="https://img.shields.io/badge/KMeans-0052CC?style=for-the-badge&logo=apachespark&logoColor=white" />
+      <img alt="PCA" src="https://img.shields.io/badge/PCA-444444?style=for-the-badge&logo=databricks&logoColor=white" />
+      <img alt="SVM" src="https://img.shields.io/badge/SVM-111111?style=for-the-badge&logo=scipy&logoColor=white" />
+      <img alt="Decision Trees" src="https://img.shields.io/badge/Decision_Trees-006400?style=for-the-badge&logo=treehouse&logoColor=white" />
+      <img alt="Random Forest" src="https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=leaflet&logoColor=white" />
       <!-- AI Models -->
+      <a href="https://github.com/ultralytics/yolov5" target="_blank" name="yolo">
+        <img alt="YOLO" src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+      </a>
+      <a href="https://github.com/facebookresearch/detectron2" target="_blank" name="detectron2">
+        <img alt="Detectron2" src="https://img.shields.io/badge/Detectron2-0055A4?style=for-the-badge&logo=facebook&logoColor=white" />
+      </a>
+      <a href="https://opencv.org/" target="_blank" name="opencv">
+        <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+      </a>
       <!-- Глобальные -->
       <a href="https://huggingface.co/Qwen" target="_blank" name="qwen">
         <img alt="Qwen" src="https://img.shields.io/badge/Qwen-ffcc00?style=for-the-badge&logo=alibabacloud&logoColor=black" />
@@ -350,13 +407,26 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="" target="_blank" name="android">
         <img alt="android badge" src="https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639" />
       </a>
-      <!-- Tools -->
+      <a href="https://www.microsoft.com/windows" target="_blank" name="windows">
+        <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+      </a>
+      <!-- Servers & Monitoring -->
       <a href="" target="_blank" name="nginx">
         <img alt="nginx badge" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
       </a>
       <a href="" target="_blank" name="apache">
         <img alt="apache badge" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
       </a>
+      <a href="https://caddyserver.com/" target="_blank" name="caddy">
+        <img alt="Caddy" src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" />
+      </a>
+      <a href="https://grafana.com/" target="_blank" name="grafana">
+        <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+      </a>
+      <a href="https://www.zabbix.com/" target="_blank" name="zabbix">
+        <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
+      </a>
+      <!-- Tools -->
       <a href="" target="_blank" name="docker">
         <img alt="docker badge" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
       </a>
@@ -366,32 +436,64 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="" target="_blank" name="kuber">
         <img alt="kuber badge" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
       </a>
+      <!-- Dev Tools & IDEs -->
+      <a href="https://git-scm.com/" target="_blank" name="git">
+        <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      </a>
+      <a href="https://about.gitlab.com/" target="_blank" name="gitlab">
+        <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+      </a>
+      <a href="https://github.com" target="_blank" name="github">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://gitea.io/" target="_blank" name="gitea">
+        <img alt="Gitea" src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" />
+      </a>
+      <a href="https://www.wireshark.org/" target="_blank" name="wireshark">
+        <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+      </a>
+        <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+        <img alt="VSCodium" src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" />
       <a href="" target="_blank" name="anaconda">
         <img alt="anaconda badge" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
       </a>
-      <!-- IoT -->
+      <a href="https://jupyter.org/" target="_blank" name="jupyter">
+        <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+      </a>
+      <!-- IoT & Embedded -->
       <a href="" target="_blank" name="raspberry">
         <img alt="raspberry badge" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
       </a>
       <a href="" target="_blank" name="arduino">
         <img alt="arduino badge" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
       </a>
-      <!-- HW -->
-      <a href="https://www.cudocompute.com/" target="_blank" name="cudo">
-        <img alt="CUDO Compute" src="https://img.shields.io/badge/CUDO-00BFFF?style=for-the-badge&logo=nvidia&logoColor=white" />
-      </a>
+      <img alt="NVIDIA Jetson" src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=black" />
+      <img alt="Orange Pi" src="https://img.shields.io/badge/Orange_Pi-F78C40?style=for-the-badge&logo=orangepistudio&logoColor=white" />
+      <img alt="BeagleBone" src="https://img.shields.io/badge/BeagleBone-999999?style=for-the-badge&logo=beagleboard&logoColor=white" />
+      <img alt="RISC-V" src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=risc-v&logoColor=white" />
+      <img alt="Espressif IDF" src="https://img.shields.io/badge/Espressif_IDF-ED1C24?style=for-the-badge&logo=espressif&logoColor=white" />
+      <img alt="Intel NPU" src="https://img.shields.io/badge/Intel_NPU-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+      <img alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=red" />
+      <img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
       <!-- Apps -->
+      <a href="" target="_blank" name="markdown">
+        <img alt="markdown badge" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+      </a>
+      <a href="" target="_blank" name="latex">
+        <img alt="latex badge" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+      </a>
+      <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" />
       <a href="" target="_blank" name="canva">
         <img alt="canva badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
       </a>
       <a href="" target="_blank" name="figma">
         <img alt="figma badge" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
       </a>
-      <a href="" target="_blank" name="premiere">
-        <img alt="premiere badge" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-      </a>
       <a href="" target="_blank" name="gimp">
         <img alt="gimp badge" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" />
+      </a>
+      <a href="" target="_blank" name="premiere">
+        <img alt="premiere badge" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
       </a>
     </div>
 </div>
