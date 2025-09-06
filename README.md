@@ -175,19 +175,7 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="" target="_blank" name="cmake">
         <img alt="cmake badge" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
       </a>
-      <!-- Frameworks -->
-      <a href="" target="_blank" name="scipy">
-        <img alt="scipy badge" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
-      </a>
-      <a href="" target="_blank" name="numpy">
-        <img alt="numpy badge" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-      </a>
-      <a href="" target="_blank" name="pandas">
-        <img alt="pandas badge" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-      </a>
-      <a href="" target="_blank" name="scikit-learn">
-        <img alt="scikit-learn badge" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      </a>
+      <!-- AI Frameworks -->
       <a href="" target="_blank" name="keras">
         <img alt="keras badge" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
       </a>
@@ -196,12 +184,6 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       </a>
       <a href="" target="_blank" name="pytorch">
         <img alt="pytorch badge" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-      </a>
-      <a href="" target="_blank" name="react">
-        <img alt="react badge" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-      </a>
-      <a href="" target="_blank" name="nodejs">
-        <img alt="nodejs badge" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
       </a>
       <!-- APIs -->
       <a href="" target="_blank" name="fastapi">
@@ -218,6 +200,12 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <img alt="OAuth2" src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=auth0&logoColor=white" />
       <img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
       <!-- UI / Deployment -->
+      <a href="" target="_blank" name="react">
+        <img alt="react badge" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+      </a>
+      <a href="" target="_blank" name="nodejs">
+        <img alt="nodejs badge" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+      </a>
       <a href="" target="_blank" name="django">
         <img alt="django badge" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
       </a>
@@ -240,6 +228,37 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
         <img alt="tkinter" src="https://img.shields.io/badge/Tkinter-FF8000?style=for-the-badge&logo=python&logoColor=white" />
       </a>
       <img alt="PyGame" src="https://img.shields.io/badge/PyGame-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <!-- CV & Math Tools -->
+      <a href="https://opencv.org/" target="_blank" name="opencv">
+        <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+      </a>
+      <a href="https://github.com/DmPanf/korni" target="_blank" name="korni">
+        <img alt="KORNI" src="https://img.shields.io/badge/KORNI-800080?style=for-the-badge&logo=python&logoColor=white" />
+      </a>
+      <a href="https://matplotlib.org/" target="_blank" name="matplotlib">
+        <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+      </a>
+      <a href="https://seaborn.pydata.org/" target="_blank" name="seaborn">
+        <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+      </a>
+      <a href="" target="_blank" name="plotly">
+        <img alt="plotly badge" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+      </a>
+      <a href="https://bokeh.org/" target="_blank" name="bokeh">
+        <img alt="Bokeh" src="https://img.shields.io/badge/Bokeh-FF9900?style=for-the-badge&logo=python&logoColor=white" />
+      </a>
+      <a href="https://altair-viz.github.io/" target="_blank" name="altair">
+        <img alt="Altair" src="https://img.shields.io/badge/Altair-E45756?style=for-the-badge&logo=vega&logoColor=white" />
+      </a>
+      <a href="" target="_blank" name="scipy">
+        <img alt="scipy badge" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+      </a>
+      <a href="" target="_blank" name="numpy">
+        <img alt="numpy badge" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+      </a>
+      <a href="" target="_blank" name="pandas">
+        <img alt="pandas badge" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+      </a>
       <!-- Databases -->
       <a href="" target="_blank" name="sqlite">
         <img alt="sqlite badge" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -348,6 +367,9 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
         <img alt="Cudo Compute" src="https://img.shields.io/badge/CUDO_Compute-00BFFF?style=for-the-badge&logo=nvidia&logoColor=white" />
       </a>
       <!-- Data Science / ML -->
+      <a href="" target="_blank" name="scikit-learn">
+        <img alt="scikit-learn badge" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      </a>
       <a href="https://xgboost.ai/" target="_blank" name="xgboost">
         <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=apache&logoColor=white" />
       </a>
@@ -360,32 +382,11 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <!-- KNN / KMeans / PCA / SVM / Trees / RF -->
       <img alt="k-NN" src="https://img.shields.io/badge/k--NN-333333?style=for-the-badge&logo=ai&logoColor=white" />
       <img alt="KMeans" src="https://img.shields.io/badge/KMeans-0052CC?style=for-the-badge&logo=apachespark&logoColor=white" />
+      <img alt="DBSCAN" src="https://img.shields.io/badge/DBSCAN-2C6EB5?style=for-the-badge&logo=scikit-learn&logoColor=white" />
       <img alt="PCA" src="https://img.shields.io/badge/PCA-444444?style=for-the-badge&logo=databricks&logoColor=white" />
       <img alt="SVM" src="https://img.shields.io/badge/SVM-111111?style=for-the-badge&logo=scipy&logoColor=white" />
       <img alt="Decision Trees" src="https://img.shields.io/badge/Decision_Trees-006400?style=for-the-badge&logo=treehouse&logoColor=white" />
       <img alt="Random Forest" src="https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=leaflet&logoColor=white" />
-      <!-- CV Tools -->
-      <a href="https://opencv.org/" target="_blank" name="opencv">
-        <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-      </a>
-      <a href="https://github.com/DmPanf/korni" target="_blank" name="korni">
-        <img alt="KORNI" src="https://img.shields.io/badge/KORNI-800080?style=for-the-badge&logo=python&logoColor=white" />
-      </a>
-      <a href="https://matplotlib.org/" target="_blank" name="matplotlib">
-        <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-      </a>
-      <a href="https://seaborn.pydata.org/" target="_blank" name="seaborn">
-        <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-      </a>
-      <a href="" target="_blank" name="plotly">
-        <img alt="plotly badge" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
-      </a>
-      <a href="https://bokeh.org/" target="_blank" name="bokeh">
-        <img alt="Bokeh" src="https://img.shields.io/badge/Bokeh-FF9900?style=for-the-badge&logo=python&logoColor=white" />
-      </a>
-      <a href="https://altair-viz.github.io/" target="_blank" name="altair">
-        <img alt="Altair" src="https://img.shields.io/badge/Altair-E45756?style=for-the-badge&logo=vega&logoColor=white" />
-      </a>
       <!-- AI Models -->
       <a href="https://github.com/ultralytics/yolov5" target="_blank" name="yolo">
         <img alt="YOLO" src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
