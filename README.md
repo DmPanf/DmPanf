@@ -32,7 +32,7 @@ social_links:
     <tr>
         <td valign="top" style="width: 70%; padding-right: 20px;">
               <ul>
-                  <li>👉 Hi, I'm <b><a href="https://keybase.io/DmPanf" target="_blank" style="text-decoration: none;">Dmitrii Panfilov</a></b></li>
+                  👉 Hi, I'm <b><a href="https://keybase.io/DmPanf" target="_blank" style="text-decoration: none;">Dmitrii Panfilov</a></b>
                   <p></p>
                   <li>🤖 AI Engineer — focusing on <b>Computer Vision, LLMs & applied AI</b></li>
                   <li>⚡ Creator of <b>Telegram bots</b> & scalable apps with FastAPI</li>
