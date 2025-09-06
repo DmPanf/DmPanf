@@ -33,7 +33,7 @@ social_links:
         <td valign="top" style="width: 70%; padding-right: 20px;">
               <ul>
                   <li>👉 Hi, I'm <b><a href="https://keybase.io/DmPanf" target="_blank" style="text-decoration: none;">Dmitrii Panfilov</a></b></li>
-                  <li><b> ............................................</b></li>
+                  <hr style="border: 2px solid #6A0DAD; width: 60%; margin: 20px auto;">
                   <li>🤖 AI Engineer — focusing on <b>Computer Vision, LLMs & applied AI</b></li>
                   <li>⚡ Creator of <b>Telegram bots</b> & scalable apps with FastAPI</li>
                   <li>🐧 Linux & DevOps enthusiast | 🚀 Open-source collaborator</li>
@@ -85,14 +85,16 @@ social_links:
 
 <div name="about">
   <h2>🔮&nbsp;<code>~/About_me/</code></h2>
-  <p name="long_bio" align="center">
-🔍 I'm Dmitrii — an AI Engineer and Digital Transformation Mentor.  
-Passionate about <b>AI & Computer Vision</b> 🤖, <b>Python</b> 🐍, and <b>Telegram integrations</b> 🚀.  
-I build scalable apps with <b>FastAPI</b>, explore <b>Linux & DevOps</b> 🐧, and research <b>security & cryptography</b> 🔒.  
-My journey also extends to <b>IoT & Raspberry Pi</b> 🥧 projects, creating smart, interconnected environments.  
-Currently focused on <b>AI dialog systems</b> that deliver interactive and intelligent user experiences.  
-Always open to <i>innovative collaborations and open-source projects</i> 🤝 pushing the boundaries of technology.
+<p name="long_bio" align="center">
+I'm Dmitrii — an AI Engineer and Digital Transformation Mentor.  
+I specialize in <b>Artificial Intelligence and Computer Vision</b>, with strong expertise in <b>Python</b>, <b>FastAPI</b>, and scalable backend systems.  
+My background includes building advanced <b>Telegram integrations</b>, developing reliable <b>DevOps workflows</b>, and working extensively with <b>Linux-based infrastructures</b>.  
+I also have experience in <b>IoT and Raspberry Pi projects</b>, designing smart and interconnected environments.  
+In addition, I focus on <b>Information Security and Cryptography</b> to ensure trustworthy and resilient solutions.  
+Currently, my work is dedicated to <b>AI dialogue systems</b> that enhance user experiences through interactive and intelligent models.  
+I am open to <i>collaborations, partnerships, and innovative projects</i> that challenge the status quo and drive meaningful technological change.
 </p>
+
 </div>
 
 <div name="stats">
