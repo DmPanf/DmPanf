@@ -224,6 +224,21 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="" target="_blank" name="nodejs">
         <img alt="nodejs badge" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
       </a>
+      
+      <!-- UI / Deployment -->
+      <a href="https://github.com/gradio-app/gradio" target="_blank" name="gradio">
+        <img alt="Gradio" src="https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+      </a>
+      <a href="https://github.com/reflex-dev/reflex" target="_blank" name="reflex">
+        <img alt="Reflex" src="https://img.shields.io/badge/Reflex-3333FF?style=for-the-badge&logo=react&logoColor=white" />
+      </a>
+      <a href="https://github.com/streamlit/streamlit" target="_blank" name="streamlit">
+        <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+      </a>
+      <a href="https://github.com/plotly/dash" target="_blank" name="dash">
+        <img alt="Dash" src="https://img.shields.io/badge/Dash-003366?style=for-the-badge&logo=plotly&logoColor=white" />
+      </a>
+      
       <!-- OS -->
       <a href="" target="_blank" name="linux">
         <img alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -299,100 +314,89 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="" target="_blank" name="gimp">
         <img alt="gimp badge" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" />
       </a>
-
-<!-- UI / Deployment -->
-<a href="https://github.com/gradio-app/gradio" target="_blank" name="gradio">
-  <img alt="Gradio" src="https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-<a href="https://github.com/reflex-dev/reflex" target="_blank" name="reflex">
-  <img alt="Reflex" src="https://img.shields.io/badge/Reflex-3333FF?style=for-the-badge&logo=react&logoColor=white" />
-</a>
-<a href="https://github.com/streamlit/streamlit" target="_blank" name="streamlit">
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</a>
-<a href="https://github.com/plotly/dash" target="_blank" name="dash">
-  <img alt="Dash" src="https://img.shields.io/badge/Dash-003366?style=for-the-badge&logo=plotly&logoColor=white" />
-</a>
-<!-- LangOps -->
-<a href="https://github.com/langchain-ai/langchain" target="_blank" name="langchain">
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-<a href="https://github.com/langchain-ai/langgraph" target="_blank" name="langgraph">
-  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0066cc?style=for-the-badge&logo=graph&logoColor=white" />
-</a>
-<!-- Agents & RAG -->
-<a href="https://github.com/run-llama/llama_index" target="_blank" name="llama_index">
-  <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-FF69B4?style=for-the-badge&logo=llama&logoColor=white" />
-</a>
-<a href="https://github.com/deepset-ai/haystack" target="_blank" name="haystack">
-  <img alt="Haystack" src="https://img.shields.io/badge/Haystack-009688?style=for-the-badge&logo=elastic&logoColor=white" />
-</a>
-<!-- Hugging Face Ecosystem -->
-<a href="https://github.com/huggingface/transformers" target="_blank" name="transformers">
-  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFAE00?style=for-the-badge&logo=huggingface&logoColor=black" />
-</a>
-<a href="https://github.com/huggingface/huggingface_hub" target="_blank" name="huggingface_hub">
-  <img alt="Hugging Face Hub" src="https://img.shields.io/badge/HuggingFace_Hub-FCC72B?style=for-the-badge&logo=huggingface&logoColor=black" />
-</a>
-<!-- Embeddings & Search -->
-<a href="https://github.com/UKPLab/sentence-transformers" target="_blank" name="sentence_transformers">
-  <img alt="SentenceTransformers" src="https://img.shields.io/badge/SentenceTransformers-006699?style=for-the-badge&logo=semanticweb&logoColor=white" />
-</a>
-<a href="https://github.com/huggingface/datasets" target="_blank" name="datasets">
-  <img alt="Datasets" src="https://img.shields.io/badge/Datasets-ffcc33?style=for-the-badge&logo=huggingface&logoColor=black" />
-</a>
-<a href="https://github.com/huggingface/tokenizers" target="_blank" name="tokenizers">
-  <img alt="Tokenizers" src="https://img.shields.io/badge/Tokenizers-ff9900?style=for-the-badge&logo=huggingface&logoColor=black" />
-</a>
-<!-- Inference & Optimization -->
-<a href="https://github.com/vllm-project/vllm" target="_blank" name="vllm">
-  <img alt="vLLM" src="https://img.shields.io/badge/vLLM-20232A?style=for-the-badge&logo=nvidia&logoColor=76B900" />
-</a>
-<a href="https://onnxruntime.ai/" target="_blank" name="onnx">
-  <img alt="ONNX Runtime" src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-</a>
-<a href="https://developer.nvidia.com/tensorrt" target="_blank" name="tensorrt">
-  <img alt="TensorRT" src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=black" />
-</a>
-<a href="https://www.cudocompute.com/" target="_blank" name="cudo">
-  <img alt="CUDO Compute" src="https://img.shields.io/badge/CUDO-00BFFF?style=for-the-badge&logo=nvidia&logoColor=white" />
-</a>
-<!-- AI Models -->
-<!-- Глобальные -->
-<a href="https://openai.com/chatgpt" target="_blank" name="chatgpt">
-  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-</a>
-<a href="https://grok.x.ai/" target="_blank" name="grok">
-  <img alt="Grok" src="https://img.shields.io/badge/Grok-FF4500?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://deepseek.com/" target="_blank" name="deepseek">
-  <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-3333CC?style=for-the-badge&logo=deepnote&logoColor=white" />
-</a>
-<a href="https://huggingface.co/Qwen" target="_blank" name="qwen">
-  <img alt="Qwen" src="https://img.shields.io/badge/Qwen-ffcc00?style=for-the-badge&logo=alibabacloud&logoColor=black" />
-</a>
-<a href="https://github.com/haotian-liu/LLaVA" target="_blank" name="llava">
-  <img alt="LLaVA" src="https://img.shields.io/badge/LLaVA-4b0082?style=for-the-badge&logo=openai&logoColor=white" />
-</a>
-<a href="https://ai.google.dev/gemma" target="_blank" name="gemma">
-  <img alt="Gemma" src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</a>
-<a href="https://github.com/openai/CLIP" target="_blank" name="clip">
-  <img alt="CLIP" src="https://img.shields.io/badge/CLIP-000000?style=for-the-badge&logo=openai&logoColor=white" />
-</a>
-<a href="https://github.com/google-research/bert" target="_blank" name="bert">
-  <img alt="BERT" src="https://img.shields.io/badge/BERT-121212?style=for-the-badge&logo=google&logoColor=white" />
-</a>
-<!-- Российские -->
-<a href="https://sber.ai/ru/gigachat" target="_blank" name="gigachat">
-  <img alt="Gigachat" src="https://img.shields.io/badge/Gigachat-21A038?style=for-the-badge&logo=sberbank&logoColor=white" />
-</a>
-<a href="https://yandex.cloud/ru/services/yandexgpt" target="_blank" name="yandexgpt">
-  <img alt="YandexGPT" src="https://img.shields.io/badge/YandexGPT-FFCC00?style=for-the-badge&logo=yandex&logoColor=black" />
-</a>
-<a href="https://tpro.ai/" target="_blank" name="tpro">
-  <img alt="T-PRO" src="https://img.shields.io/badge/T--PRO-0000AA?style=for-the-badge&logo=ai&logoColor=white" />
-</a>
+      
+      <!-- LangOps -->
+      <a href="https://github.com/langchain-ai/langchain" target="_blank" name="langchain">
+        <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge&logo=python&logoColor=white" />
+      </a>
+      <a href="https://github.com/langchain-ai/langgraph" target="_blank" name="langgraph">
+        <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0066cc?style=for-the-badge&logo=graph&logoColor=white" />
+      </a>
+      <!-- Agents & RAG -->
+      <a href="https://github.com/run-llama/llama_index" target="_blank" name="llama_index">
+        <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-FF69B4?style=for-the-badge&logo=llama&logoColor=white" />
+      </a>
+      <a href="https://github.com/deepset-ai/haystack" target="_blank" name="haystack">
+        <img alt="Haystack" src="https://img.shields.io/badge/Haystack-009688?style=for-the-badge&logo=elastic&logoColor=white" />
+      </a>
+      <!-- Hugging Face Ecosystem -->
+      <a href="https://github.com/huggingface/transformers" target="_blank" name="transformers">
+        <img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFAE00?style=for-the-badge&logo=huggingface&logoColor=black" />
+      </a>
+      <a href="https://github.com/huggingface/huggingface_hub" target="_blank" name="huggingface_hub">
+        <img alt="Hugging Face Hub" src="https://img.shields.io/badge/HuggingFace_Hub-FCC72B?style=for-the-badge&logo=huggingface&logoColor=black" />
+      </a>
+      
+      <!-- Embeddings & Search -->
+      <a href="https://github.com/UKPLab/sentence-transformers" target="_blank" name="sentence_transformers">
+        <img alt="SentenceTransformers" src="https://img.shields.io/badge/SentenceTransformers-006699?style=for-the-badge&logo=semanticweb&logoColor=white" />
+      </a>
+      <a href="https://github.com/huggingface/datasets" target="_blank" name="datasets">
+        <img alt="Datasets" src="https://img.shields.io/badge/Datasets-ffcc33?style=for-the-badge&logo=huggingface&logoColor=black" />
+      </a>
+      <a href="https://github.com/huggingface/tokenizers" target="_blank" name="tokenizers">
+        <img alt="Tokenizers" src="https://img.shields.io/badge/Tokenizers-ff9900?style=for-the-badge&logo=huggingface&logoColor=black" />
+      </a>
+      <!-- Inference & Optimization -->
+      <a href="https://github.com/vllm-project/vllm" target="_blank" name="vllm">
+        <img alt="vLLM" src="https://img.shields.io/badge/vLLM-20232A?style=for-the-badge&logo=nvidia&logoColor=76B900" />
+      </a>
+      <a href="https://onnxruntime.ai/" target="_blank" name="onnx">
+        <img alt="ONNX Runtime" src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+      </a>
+      <a href="https://developer.nvidia.com/tensorrt" target="_blank" name="tensorrt">
+        <img alt="TensorRT" src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=black" />
+      </a>
+      <a href="https://www.cudocompute.com/" target="_blank" name="cudo">
+        <img alt="CUDO Compute" src="https://img.shields.io/badge/CUDO-00BFFF?style=for-the-badge&logo=nvidia&logoColor=white" />
+      </a>
+      
+      <!-- AI Models -->
+      <!-- Глобальные -->
+      <a href="https://huggingface.co/Qwen" target="_blank" name="qwen">
+        <img alt="Qwen" src="https://img.shields.io/badge/Qwen-ffcc00?style=for-the-badge&logo=alibabacloud&logoColor=black" />
+      </a>
+      <a href="https://github.com/haotian-liu/LLaVA" target="_blank" name="llava">
+        <img alt="LLaVA" src="https://img.shields.io/badge/LLaVA-4b0082?style=for-the-badge&logo=openai&logoColor=white" />
+      </a>
+      <a href="https://grok.x.ai/" target="_blank" name="grok">
+        <img alt="Grok" src="https://img.shields.io/badge/Grok-FF4500?style=for-the-badge&logo=x&logoColor=white" />
+      </a>
+      <a href="https://ai.google.dev/gemma" target="_blank" name="gemma">
+        <img alt="Gemma" src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      </a>
+      <a href="https://openai.com/chatgpt" target="_blank" name="chatgpt">
+        <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+      </a>
+      <a href="https://deepseek.com/" target="_blank" name="deepseek">
+        <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-3333CC?style=for-the-badge&logo=deepnote&logoColor=white" />
+      </a>
+      <a href="https://github.com/openai/CLIP" target="_blank" name="clip">
+        <img alt="CLIP" src="https://img.shields.io/badge/CLIP-000000?style=for-the-badge&logo=openai&logoColor=white" />
+      </a>
+      <!-- Российские -->
+      <a href="https://sber.ai/ru/gigachat" target="_blank" name="gigachat">
+        <img alt="Gigachat" src="https://img.shields.io/badge/Gigachat-21A038?style=for-the-badge&logo=sberbank&logoColor=white" />
+      </a>
+      <a href="https://yandex.cloud/ru/services/yandexgpt" target="_blank" name="yandexgpt">
+        <img alt="YandexGPT" src="https://img.shields.io/badge/YandexGPT-FFCC00?style=for-the-badge&logo=yandex&logoColor=black" />
+      </a>
+      <a href="https://tpro.ai/" target="_blank" name="tpro">
+        <img alt="T-PRO" src="https://img.shields.io/badge/T--PRO-0000AA?style=for-the-badge&logo=ai&logoColor=white" />
+      </a>        
+      <a href="https://github.com/google-research/bert" target="_blank" name="bert">
+        <img alt="BERT" src="https://img.shields.io/badge/BERT-121212?style=for-the-badge&logo=google&logoColor=white" />
+      </a>
     </div>
 </div>
 
