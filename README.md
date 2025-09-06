@@ -199,6 +199,9 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <img alt="LDAP" src="https://img.shields.io/badge/LDAP-0A79D6?style=for-the-badge&logo=protocols&logoColor=white" />
       <img alt="OAuth2" src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=auth0&logoColor=white" />
       <img alt="Telegram Bot API" src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+      <a href="https://github.com/aiogram/aiogram" target="_blank" name="aiogram">
+        <img alt="Aiogram" src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+      </a>
       <!-- UI / Deployment -->
       <a href="" target="_blank" name="react">
         <img alt="react badge" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -313,6 +316,9 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="https://github.com/UKPLab/sentence-transformers" target="_blank" name="sentence_transformers">
         <img alt="SentenceTransformers" src="https://img.shields.io/badge/SentenceTransformers-006699?style=for-the-badge&logo=semanticweb&logoColor=white" />
       </a>
+      <a href="https://huggingface.co/BAAI/bge-m3" target="_blank" name="bge-m3">
+        <img alt="bge-m3" src="https://img.shields.io/badge/bge--m3-0056A1?style=for-the-badge&logo=huggingface&logoColor=white" />
+      </a>
       <a href="https://github.com/huggingface/tokenizers" target="_blank" name="tokenizers">
         <img alt="Tokenizers" src="https://img.shields.io/badge/Tokenizers-ff9900?style=for-the-badge&logo=huggingface&logoColor=black" />
       </a>
@@ -423,14 +429,23 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
         <img alt="NorFair" src="https://img.shields.io/badge/NorFair-2196F3?style=for-the-badge&logo=python&logoColor=white" />
       </a>
       <!-- Глобальные -->
+      <a href="https://ai.meta.com/llama/" target="_blank" name="llama">
+        <img alt="LLaMA" src="https://img.shields.io/badge/LLaMA-000000?style=for-the-badge&logo=meta&logoColor=white" />
+      </a>
       <a href="https://huggingface.co/Qwen" target="_blank" name="qwen">
         <img alt="Qwen" src="https://img.shields.io/badge/Qwen-ffcc00?style=for-the-badge&logo=alibabacloud&logoColor=black" />
       </a>
       <a href="https://github.com/haotian-liu/LLaVA" target="_blank" name="llava">
         <img alt="LLaVA" src="https://img.shields.io/badge/LLaVA-4b0082?style=for-the-badge&logo=openai&logoColor=white" />
       </a>
+      <a href="https://mistral.ai/news/mixtral-of-experts/" target="_blank" name="mixtral">
+        <img alt="Mixtral" src="https://img.shields.io/badge/Mixtral-FF6F20?style=for-the-badge&logo=mistral&logoColor=white" />
+      </a>
       <a href="https://grok.x.ai/" target="_blank" name="grok">
         <img alt="Grok" src="https://img.shields.io/badge/Grok-FF4500?style=for-the-badge&logo=x&logoColor=white" />
+      </a>
+      <a href="https://github.com/OpenBMB/MiniCPM" target="_blank" name="minicpm">
+        <img alt="MiniCPM" src="https://img.shields.io/badge/MiniCPM-0066CC?style=for-the-badge&logo=openaigym&logoColor=white" />
       </a>
       <a href="https://ai.google.dev/gemma" target="_blank" name="gemma">
         <img alt="Gemma" src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -441,8 +456,30 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="https://deepseek.com/" target="_blank" name="deepseek">
         <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-3333CC?style=for-the-badge&logo=deepnote&logoColor=white" />
       </a>
+      <a href="https://github.com/OpenGVLab/InternVL" target="_blank" name="internvl">
+        <img alt="InternVL" src="https://img.shields.io/badge/InternVL-9900FF?style=for-the-badge&logo=openai&logoColor=white" />
+      </a>
+      <a href="https://www.microsoft.com/en-us/research/project/kosmos/" target="_blank" name="kosmos">
+        <img alt="Kosmos" src="https://img.shields.io/badge/Kosmos-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" />
+      </a>
       <a href="https://github.com/openai/CLIP" target="_blank" name="clip">
         <img alt="CLIP" src="https://img.shields.io/badge/CLIP-000000?style=for-the-badge&logo=openai&logoColor=white" />
+      </a>
+      <!-- Speech & Generative Vision -->
+      <a href="https://stability.ai/stable-diffusion" target="_blank" name="stable-diffusion">
+        <img alt="Stable Diffusion" src="https://img.shields.io/badge/Stable_Diffusion-FF4683?style=for-the-badge&logo=stabilityai&logoColor=white" />
+      </a>
+      <a href="https://blackforestlabs.ai/" target="_blank" name="flux">
+        <img alt="FLUX" src="https://img.shields.io/badge/FLUX-111111?style=for-the-badge&logo=ai&logoColor=white" />
+      </a>
+      <a href="https://huggingface.co/ai-forever/kandinsky-2.2" target="_blank" name="kandinsky">
+        <img alt="Kandinsky" src="https://img.shields.io/badge/Kandinsky-1E90FF?style=for-the-badge&logo=sberbank&logoColor=white" />
+      </a>
+      <a href="https://github.com/openai/whisper" target="_blank" name="whisper">
+        <img alt="Whisper" src="https://img.shields.io/badge/Whisper-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+      </a>
+      <a href="https://github.com/myshell-ai/OpenVoice" target="_blank" name="openvoicev2">
+        <img alt="OpenVoice V2" src="https://img.shields.io/badge/OpenVoice_V2-FF4B4B?style=for-the-badge&logo=voiceover&logoColor=white" />
       </a>
       <!-- Российские -->
       <a href="https://sber.ai/ru/gigachat" target="_blank" name="gigachat">
@@ -524,6 +561,15 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <img alt="Intel NPU" src="https://img.shields.io/badge/Intel_NPU-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
       <img alt="NVIDIA Jetson" src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=black" />
       <img alt="Orange Pi" src="https://img.shields.io/badge/Orange_Pi-F78C40?style=for-the-badge&logo=orangepistudio&logoColor=white" />
+      <a href="https://www.khadas.com/vim4" target="_blank" name="khadas-vim4">
+        <img alt="Khadas VIM4" src="https://img.shields.io/badge/Khadas_VIM4-000000?style=for-the-badge&logo=arm&logoColor=white" />
+      </a>
+      <a href="https://www.khadas.com/edge2" target="_blank" name="khadas-edge2">
+        <img alt="Khadas Edge2" src="https://img.shields.io/badge/Khadas_Edge2-003399?style=for-the-badge&logo=arm&logoColor=white" />
+      </a>
+      <a href="https://tinker-board.asus.com/" target="_blank" name="asus-tinker">
+        <img alt="ASUS Tinker Board" src="https://img.shields.io/badge/ASUS_Tinker_Board-1B1F23?style=for-the-badge&logo=asus&logoColor=white" />
+      </a>
       <a href="" target="_blank" name="raspberry">
         <img alt="raspberry badge" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
       </a>
@@ -532,7 +578,6 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="" target="_blank" name="arduino">
         <img alt="arduino badge" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
       </a>
-      <img alt="Espressif IDF" src="https://img.shields.io/badge/Espressif_IDF-ED1C24?style=for-the-badge&logo=espressif&logoColor=white" />
       <img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
       <img alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=red" />
       <!-- Apps -->
