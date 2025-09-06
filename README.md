@@ -312,7 +312,6 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="" target="_blank" name="gimp">
         <img alt="gimp badge" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" />
       </a>
-      
       <!-- LangOps -->
       <a href="https://github.com/langchain-ai/langchain" target="_blank" name="langchain">
         <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge&logo=python&logoColor=white" />
@@ -334,7 +333,6 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="https://github.com/huggingface/huggingface_hub" target="_blank" name="huggingface_hub">
         <img alt="Hugging Face Hub" src="https://img.shields.io/badge/HuggingFace_Hub-FCC72B?style=for-the-badge&logo=huggingface&logoColor=black" />
       </a>
-      
       <!-- Embeddings & Search -->
       <a href="https://github.com/UKPLab/sentence-transformers" target="_blank" name="sentence_transformers">
         <img alt="SentenceTransformers" src="https://img.shields.io/badge/SentenceTransformers-006699?style=for-the-badge&logo=semanticweb&logoColor=white" />
@@ -358,7 +356,6 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="https://www.cudocompute.com/" target="_blank" name="cudo">
         <img alt="CUDO Compute" src="https://img.shields.io/badge/CUDO-00BFFF?style=for-the-badge&logo=nvidia&logoColor=white" />
       </a>
-      
       <!-- AI Models -->
       <!-- Глобальные -->
       <a href="https://huggingface.co/Qwen" target="_blank" name="qwen">
