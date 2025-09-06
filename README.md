@@ -98,7 +98,7 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
 </div>
 
 <div name="stats">
-  <h2>📊&nbsp;<code>~/Stats/</code></h2>
+  <h2>📊&nbsp;<code>~/Stats/</code>"Big brains, bigger unknowns."</h2>
   <picture name="most used languages" align="center">
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&langs_count=10&layout=compact&hide=jupyter%20notebook&size_weight=0.6&count_weight=0.3&theme=chartreuse-dark"
