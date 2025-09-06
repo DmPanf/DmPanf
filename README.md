@@ -273,6 +273,19 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
       <a href="" target="_blank" name="mongodb">
         <img alt="mongodb badge" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
       </a>
+      <!-- Vector DB -->
+      <a href="https://www.trychroma.com/" target="_blank" name="chromadb">
+        <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-800080?style=for-the-badge&logo=chromecast&logoColor=white" />
+      </a>
+      <a href="https://qdrant.tech/" target="_blank" name="qdrant">
+        <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-FF4C00?style=for-the-badge&logo=databricks&logoColor=white" />
+      </a>
+      <a href="https://milvus.io/" target="_blank" name="milvus">
+        <img alt="Milvus" src="https://img.shields.io/badge/Milvus-1C7FFF?style=for-the-badge&logo=apache&logoColor=white" />
+      </a>
+      <a href="https://github.com/facebookresearch/faiss" target="_blank" name="faiss">
+        <img alt="FAISS" src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white" />
+      </a>
       <!-- Apps -->
       <a href="" target="_blank" name="canva">
         <img alt="canva badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
@@ -311,23 +324,52 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
   <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0066cc?style=for-the-badge&logo=graph&logoColor=white" />
 </a>
 
-<!-- Vector DB -->
-<a href="https://qdrant.tech/" target="_blank" name="qdrant">
-  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-FF4C00?style=for-the-badge&logo=databricks&logoColor=white" />
-</a>
-<a href="https://github.com/facebookresearch/faiss" target="_blank" name="faiss">
-  <img alt="FAISS" src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white" />
-</a>
-<a href="https://www.trychroma.com/" target="_blank" name="chromadb">
-  <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-800080?style=for-the-badge&logo=chromecast&logoColor=white" />
-</a>
-
 <!-- UI / Deployment -->
 <a href="https://github.com/gradio-app/gradio" target="_blank" name="gradio">
   <img alt="Gradio" src="https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 <a href="https://github.com/reflex-dev/reflex" target="_blank" name="reflex">
   <img alt="Reflex" src="https://img.shields.io/badge/Reflex-3333FF?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+<a href="https://github.com/streamlit/streamlit" target="_blank" name="streamlit">
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</a>
+<a href="https://github.com/plotly/dash" target="_blank" name="dash">
+  <img alt="Dash" src="https://img.shields.io/badge/Dash-003366?style=for-the-badge&logo=plotly&logoColor=white" />
+</a>
+<!-- Agents & RAG -->
+<a href="https://github.com/run-llama/llama_index" target="_blank" name="llama_index">
+  <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-FF69B4?style=for-the-badge&logo=llama&logoColor=white" />
+</a>
+<a href="https://github.com/deepset-ai/haystack" target="_blank" name="haystack">
+  <img alt="Haystack" src="https://img.shields.io/badge/Haystack-009688?style=for-the-badge&logo=elastic&logoColor=white" />
+</a>
+<!-- Hugging Face Ecosystem -->
+<a href="https://github.com/huggingface/transformers" target="_blank" name="transformers">
+  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFAE00?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+<a href="https://github.com/huggingface/huggingface_hub" target="_blank" name="huggingface_hub">
+  <img alt="Hugging Face Hub" src="https://img.shields.io/badge/HuggingFace_Hub-FCC72B?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+<a href="https://github.com/huggingface/datasets" target="_blank" name="datasets">
+  <img alt="Datasets" src="https://img.shields.io/badge/Datasets-ffcc33?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+<a href="https://github.com/huggingface/tokenizers" target="_blank" name="tokenizers">
+  <img alt="Tokenizers" src="https://img.shields.io/badge/Tokenizers-ff9900?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+<!-- Embeddings & Search -->
+<a href="https://github.com/UKPLab/sentence-transformers" target="_blank" name="sentence_transformers">
+  <img alt="SentenceTransformers" src="https://img.shields.io/badge/SentenceTransformers-006699?style=for-the-badge&logo=semanticweb&logoColor=white" />
+</a>
+<!-- Inference & Optimization -->
+<a href="https://github.com/vllm-project/vllm" target="_blank" name="vllm">
+  <img alt="vLLM" src="https://img.shields.io/badge/vLLM-20232A?style=for-the-badge&logo=nvidia&logoColor=76B900" />
+</a>
+<a href="https://onnxruntime.ai/" target="_blank" name="onnx">
+  <img alt="ONNX Runtime" src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+</a>
+<a href="https://developer.nvidia.com/tensorrt" target="_blank" name="tensorrt">
+  <img alt="TensorRT" src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=black" />
 </a>
 <a href="https://www.cudocompute.com/" target="_blank" name="cudo">
   <img alt="CUDO Compute" src="https://img.shields.io/badge/CUDO-00BFFF?style=for-the-badge&logo=nvidia&logoColor=white" />
