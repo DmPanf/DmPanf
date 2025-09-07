@@ -130,11 +130,20 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
 </div>
 
 <div name="stack">
-  <table style="width: 100%; border-collapse: collapse;">
-    <tr>
-<h2>🛠️&nbsp;<code>~/Tech_stack/..</code> 🪬 <b><i>"Big brains, bigger unknowns."</i></b></h2>
-  </tr></table>
-        
+    <table style="width: 100%; border-collapse: collapse;">
+      <tr>
+        <td>
+          <h2 style="display: flex; align-items: center; gap: 8px;">
+            🛠️ 
+            <div style="border: 2px solid #555; border-radius: 6px; padding: 4px 10px; background: #f8f8f8; font-family: monospace;">
+              ~/Tech_stack/..
+            </div>
+            🪬 
+            <b><i>"Big brains, bigger unknowns."</i></b>
+          </h2>
+        </td>
+      </tr>
+    </table>     
     <div name="badges" align="center"> <!-- It is possible to align left, center or right -->
       <!-- Languages -->
       <a href="" target="_blank" name="python">
