@@ -130,7 +130,7 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
 </div>
 
 <div name="stack">
-<h2>🛠️&nbsp;<code>~/Tech_stack/</code> ... 🪬 "Big brains, bigger unknowns."</h2>
+<h2>🛠️&nbsp;<code>~/Tech_stack/</code> ... <b><i>🪬 "Big brains, bigger unknowns."</i></b></h2>
     <div name="badges" align="center"> <!-- It is possible to align left, center or right -->
       <!-- Languages -->
       <a href="" target="_blank" name="python">
