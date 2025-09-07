@@ -26,7 +26,7 @@ social_links:
 -->
 
 
-<h1>🤝&nbsp;<code>~/</code></h1>  
+<h1>🤝&nbsp;<code>~/..</code></h1>  
 
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
@@ -84,7 +84,7 @@ social_links:
 
 
 <div name="about">
-  <h2>🔮&nbsp;<code>~/About_me/</code></h2>
+  <h2>🔮&nbsp;<code>~/About_me/..</code></h2>
 <p name="long_bio" align="center">
 I'm Dmitrii — an AI Engineer and Digital Transformation Mentor.  
 I specialize in <b>Artificial Intelligence and Computer Vision</b>, with strong expertise in <b>Python</b>, <b>FastAPI</b>, and scalable backend systems.  
@@ -98,7 +98,7 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
 </div>
 
 <div name="stats">
-  <h2>📊&nbsp;<code>~/Stats/</code></h2>
+  <h2>📊&nbsp;<code>~/Stats/..</code></h2>
   <picture name="most used languages" align="center">
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DmPanf&langs_count=10&layout=compact&hide=jupyter%20notebook&size_weight=0.6&count_weight=0.3&theme=chartreuse-dark"
@@ -130,7 +130,7 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
 </div>
 
 <div name="stack">
-<h2>🛠️&nbsp;<code>~/Tech_stack/</code> ... 🪬 <b><i>"Big brains, bigger unknowns."</i></b></h2>
+<h2>🛠️&nbsp;<code>~/Tech_stack/..</code> 🪬 <b><i>"Big brains, bigger unknowns."</i></b></h2>
     <div name="badges" align="center"> <!-- It is possible to align left, center or right -->
       <!-- Languages -->
       <a href="" target="_blank" name="python">
