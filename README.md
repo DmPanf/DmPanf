@@ -48,7 +48,7 @@ social_links:
 </table>
 
 <div name="socials">
-  <h2>🌐&nbsp;<code>~/Socials/</code></h2>
+  <h2>🌐&nbsp;<code>~/Socials/..</code></h2>
   <p name="social_links" align="center"> <!-- It is possible to align left, center or right -->
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/DmPanf" target="_blank" name="linkedin">
@@ -130,7 +130,11 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
 </div>
 
 <div name="stack">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
 <h2>🛠️&nbsp;<code>~/Tech_stack/..</code> 🪬 <b><i>"Big brains, bigger unknowns."</i></b></h2>
+  </table>
+        
     <div name="badges" align="center"> <!-- It is possible to align left, center or right -->
       <!-- Languages -->
       <a href="" target="_blank" name="python">
