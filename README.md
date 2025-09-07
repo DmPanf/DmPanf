@@ -133,7 +133,7 @@ I am open to <i>collaborations, partnerships, and innovative projects</i> that c
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
 <h2>🛠️&nbsp;<code>~/Tech_stack/..</code> 🪬 <b><i>"Big brains, bigger unknowns."</i></b></h2>
-  </table>
+  </tr></table>
         
     <div name="badges" align="center"> <!-- It is possible to align left, center or right -->
       <!-- Languages -->
